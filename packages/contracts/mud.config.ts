@@ -6,5 +6,10 @@ export default mudConfig({
       keySchema: {},
       valueSchema: "uint32",
     },
+    // Player: {
+    //   keySchema: {address: "bytes32"},
+    //   valueSchema: "bool",
+    // },
+    Player: "bool",
   },
 });
