@@ -5,3 +5,4 @@ pragma solidity >=0.8.21;
 
 import { Counter, CounterTableId } from "./tables/Counter.sol";
 import { Player, PlayerTableId } from "./tables/Player.sol";
+import { MapConfig, MapConfigTableId } from "./tables/MapConfig.sol";

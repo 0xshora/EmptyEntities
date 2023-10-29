@@ -11,5 +11,14 @@ export default mudConfig({
     //   valueSchema: "bool",
     // },
     Player: "bool",
+    MapConfig: {
+      keySchema: {},
+      dataStruct: false,
+      valueSchema: {
+        width: "uint32",
+        height: "uint32",
+        content: "bytes",
+      },
+    }
   },
 });
