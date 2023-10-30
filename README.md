@@ -1,3 +1,5 @@
+![final_resized_image](https://github.com/SYORA17/EmptyEntities/assets/44103856/2d2d2f39-387e-44eb-a49c-bfddf174c927)
+
 # EmptyEntities
 This project is for the Memetic AW Hackathon. : https://awhack.xyz/hackathon/1
 
